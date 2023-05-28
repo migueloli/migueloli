@@ -19,7 +19,4 @@
 </div>
 
 <br/>
-
-<div align="center">
-    <img align="center" src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in"/>
 </div>
