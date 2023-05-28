@@ -3,6 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Miguel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-a-de-oliveira/)](https://www.linkedin.com/in/miguel-a-de-oliveira/)
 [![Instagram Badge](https://img.shields.io/badge/-@miguel__antoliv-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/miguel_antoliv/)](https://www.instagram.com/miguel_antoliv/)
 [![Gmail Badge](https://img.shields.io/badge/-miguelantoliv-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:miguelantoliv@gmail.com)](mailto:miguelantoliv@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-miguelantoliv-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:miguelantoliv.de@gmail.com)](mailto:miguelantoliv.de@gmail.com)
 
 ## Let's learn as much as we can to create the future and make it as fun as possible.
 <br/>
