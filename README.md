@@ -12,9 +12,6 @@
 </div>
 <div align="center">
 <br/>
-<a href="https://github.com/migueloli">
-    <img align="center" alt="Miguel's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=migueloli&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" />
-</a>
 
 <a href="https://github.com/migueloli">
   <img align="center" alt="Miguel's Most Used Languages" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=migueloli&layout=compact&theme=dracula" />
