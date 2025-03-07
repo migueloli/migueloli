@@ -34,10 +34,6 @@ Let's learn as much as possible to create the future and make it as fun as possi
 
 ---
 
-Feel free to check out my repositories, explore my projects, and reach out if you want to collaborate! 🚀
-
----
-
 ### What's New
 
 - Currently diving deeper into **Game Development** and **KMP**.
