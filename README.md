@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm Miguel, a **Mobile & Backend Developer** passionate ab
 
 ## 🚀 About Me
 
-I'm a developer driven by **problem-solving** and **innovation**. With almost a decade of experience in **mobile** and **backend development**, I specialize in **Flutter**, **Dart**, **Kotlin**, and **Go**. I am also keenly interested in **game development** using **Godot** and **C#**. I focus on building **scalable** and **high-performance solutions**and enjoy working in collaborative, agile environments.
+I'm a developer driven by **problem-solving** and **innovation**. With almost a decade of experience in **mobile** and **backend development**, I specialize in **Flutter**, **Dart** and **Kotlin**. I am also keenly interested in **Game Development** using **Godot** and **C#**. I focus on building **scalable** and **high-performance solutions**and enjoy working in collaborative, agile environments.
 
 Let's learn as much as possible to create the future and make it as fun as possible! 🎮💡
 
